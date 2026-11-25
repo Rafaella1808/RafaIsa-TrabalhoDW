@@ -12,8 +12,8 @@
     <a href="form_cliente.php">Cadastro de Clientes</a> <br> <br>
 
     Logar como Veterinario:
-    <a href="form_index.php">Login como Veterinario</a> <br>
-    <a href="form_veterinario.php">Cadastro de Veterinario</a> <br>
+    <a href="login_vet.php">Login como Veterinario</a> <br>
+    <a href="form_veterinario.php"> Nao sou cadastrado </a> <br>
 
 
 </body>
