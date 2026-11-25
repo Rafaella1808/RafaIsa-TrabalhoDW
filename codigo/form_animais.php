@@ -20,7 +20,7 @@
         <input type="text" name="idade"><br>
 
 
-        <input type="submit" value="Criar conta">
+        <input type="submit" value="Cadastrar">
     </form>
 </body>
 </html>

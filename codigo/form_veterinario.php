@@ -16,7 +16,7 @@
          Email: <br>
         <input type="text" name="email"><br>
 
-        <input type="submit" value="Criar conta">
+        <input type="submit" value="Cadastrar">
     </form>
 </body>
 </html>
